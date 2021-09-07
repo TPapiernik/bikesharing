@@ -36,8 +36,10 @@ config.py
 config.js
 *.zip
 Backup/
+data/
 Metadata/
 Starter_Code/
+questions.txt
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
